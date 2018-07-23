@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">News Today</string>
+    <string name="response">response</string>
+    <string name="results">results</string>
+    <string name="web_title">webTitle</string>
+    <string name="section_name">sectionName</string>
+    <string name="web_url">webUrl</string>
+    <string name="web_publication_date">webPublicationDate</string>
+    <string name="fields">fields</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="tags">tags</string>
+    <string name="query">Query</string>
+    <string name="empty_json">NewsJSON is empty</string>
+    <string name="query_utils">QueryUtils</string>
+    <string name="problem_with_result">Problem parsing the News JSON results</string>
+    <string name="problem_with_http">Problem making the HTTP request</string>
+    <string name="error_with_url">Error with creating URL</string>
+    <string name="error_code">Error response code:</string>
+    <string name="problem_retrieving_json">Problem retrieving the News JSON results</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_search_label">Search</string>
+    <string name="settings_Search_default" translatable="false" />
+    <string name="settings_search_key" translatable="false">SearchTerm</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false" />
+    <string name="settings_section_default_label">Default</string>
+    <string name="settings_section_default_value">default</string>
+    <string name="settings_section_artanddesign_label">Art and Design</string>
+    <string name="settings_section_artanddesign_value" translatable="false">artanddesign</string>
+    <string name="settings_section_books_label">Books</string>
+    <string name="settings_section_books_value" translatable="false">books</string>
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value" translatable="false">business</string>
+    <string name="settings_section_cities_label">Cities</string>
+    <string name="settings_section_cities_value" translatable="false">cities</string>
+    <string name="settings_section_education_label">Education</string>
+    <string name="settings_section_education_value" translatable="false">education</string>
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_environment_value" translatable="false">environment</string>
+    <string name="settings_section_football_label">Football</string>
+    <string name="settings_section_football_value" translatable="false">football</string>
+
+</resources>
